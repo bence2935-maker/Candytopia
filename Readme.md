@@ -3,9 +3,11 @@
 Welcome to **Candytopia**! This is a whimsical, candy-themed responsive website featuring interactive galleries, a live product showcase, a local-storage backed review system, a custom SVG-to-PNG AI Image Lab simulator, soundscapes built with the Web Audio API, and a custom "Candy Catcher" arcade game.
 
 ---
-
+```​
 ## 📁 PROJECT STRUCTURE
+
 Candytopia Website/
+
 │
 ├── index.html          # Main web page, styles, and core game logic
 ├── Readme.md           # Project documentation (this file)
