@@ -9,7 +9,7 @@ Candytopia Website/
 
 │
 ├── index.html          # Main web page, styles, and core game logic
-├── Readme.md           # Project documentation (this file)
+├── README.md           # Project documentation (this file)
 └── Candytopia.png      # Website logo asset (required for header)
 
 
