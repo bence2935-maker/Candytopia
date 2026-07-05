@@ -1,5 +1,5 @@
 ========================================================================
-🍬 CANDYTOPIA - A WORLD OF SWEET ADVENTURES 🍬
+🍬 CANDYTOPIA - A WORLD OF SWEET ADVENTURES
 ========================================================================
 
 Welcome to Candytopia!
