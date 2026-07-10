@@ -8,7 +8,7 @@ This is a whimsical, candy-themed responsive website featuring interactive galle
 ------------------------------------------------------------------------
 📁 PROJECT STRUCTURE
 ------------------------------------------------------------------------
-Candytopia Website/
+Candytopia-main/
 │
 ├── index.html          # Main web page, styles, and core game logic
 ├── README.txt          # Project documentation (this file)
